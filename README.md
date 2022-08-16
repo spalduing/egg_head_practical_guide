@@ -18,6 +18,6 @@ getURLSlug("HOLA munDo");
 ```
 
 ```
-getInitials('Miguel Diaz Cabezas');
+getInitials('miguel diaz cabezas');
 //=> "MDC"
 ```
