@@ -21,3 +21,8 @@ getURLSlug("HOLA munDo");
 getInitials('miguel diaz cabezas');
 //=> "MDC"
 ```
+
+```
+getMonthName(0);
+//=> "January"
+```
