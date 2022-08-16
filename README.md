@@ -16,3 +16,8 @@ getRandomNumber(1, 10);
 getURLSlug("HOLA munDo");
 //=> "hola-mundo"
 ```
+
+```
+getInitials('Miguel Diaz Cabezas');
+//=> "MDC"
+```
